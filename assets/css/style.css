@@ -108,7 +108,7 @@ body{
 	font-family: "butlerregular", serif;
 	font-size: 80px;
 	line-height: 60px;
-	text-align: right;
+	
 }
 h2{
 	font-family: "butlerregular", serif;
@@ -328,6 +328,30 @@ nav li {
 }
 .cart .left-end .img-full {
 	width: 100%;
+}
+.cart-desc{
+	border-bottom: 1px solid grey;
+}
+.cta-add{
+	color: black;
+	width: 250px;
+	border: 1px solid black;
+}
+.cart-desc label{
+	font-family: 'cabin', sans-serif;
+	font-size: 10px;
+	letter-spacing: 5px;
+}
+.drop{
+		font-family: 'cabin', sans-serif;
+	font-size: 10px;
+	font-weight: 600;
+	text-transform:none;
+}
+.price{
+	font-family: "butlerregular", serif;
+	font-size: 30px;
+	line-height: 30px;
 }
 footer li {
 	display: inline-block!important;
